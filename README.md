@@ -1,5 +1,5 @@
 # Fire-Escape
-Senior Project
+Senior Project (VR)
 - Mixed Reality
 - Unity
 - Visual Basic
